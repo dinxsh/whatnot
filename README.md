@@ -1,10 +1,11 @@
-# Whatnot API
+# Discord Bot with Whatnot API
 
 Work-in-progress unofficial asynchronous API wrapper for [Whatnot](https://www.whatnot.com) API.
 
 ## Download
 
-`poetry add whatnot` *or* `pip install whatnot`
+for repo
+`poetry add whatnot` *or* `pip install`
 
 ## Roadmap
 
